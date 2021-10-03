@@ -10,7 +10,7 @@ libesd0-dev libdirectfb-dev libdirectfb-extra libfreetype6-dev \
 libxext-dev x11proto-xext-dev libfreetype6 libaa1 libaa1-dev \
 libslang2-dev libasound2 libasound2-dev
   ```  
-  Download lib from here [http://download.savannah.gnu.org/releases/libgraph/libgraph-1.0.2.tar.gz]
+  Download lib from here [libgraph](http://download.savannah.gnu.org/releases/libgraph/libgraph-1.0.2.tar.gz)
   ```
   ./configure
   make
